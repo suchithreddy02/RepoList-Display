@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this Flutter app, we connected to the GitHub API to retrieve a list of public GitHub repositories. Users can explore repository details, such as names, descriptions, and programming languages. Building upon this, we asynchronously loaded and displayed the latest commit information for each repository. This included commit messages and authors' names, providing insights into the most recent repository activity. These features collectively enhance the user experience, making it easy to explore GitHub repositories and their latest commits in a mobile app environment. The app is implemented using Flutter and interacts with the GitHub API, offering a seamless and informative user experience.
